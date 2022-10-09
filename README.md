@@ -1,4 +1,4 @@
-<img height="130" src="https://graph.org/file/3bc15ecda06e18efa0421.jpg" style="max-width: 100%;">
+<img height="auto" src="https://graph.org/file/3bc15ecda06e18efa0421.jpg" style="max-width: 100%;">
 
 <h2>About Me<h2>         
            
