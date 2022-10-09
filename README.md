@@ -1,4 +1,4 @@
-<img height="250" src="https://images.hdqwalls.com/download/ubuntu-glitch-minimal-art-4k-ad-1336x768.jpg" style="max-width: 100%;">
+<img height="400" src="https://images.hdqwalls.com/download/ubuntu-glitch-minimal-art-4k-ad-1336x768.jpg" style="max-width: 100%;">
 
 <h2>About Me<h2>         
            
