@@ -1,4 +1,4 @@
-<img height="150" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;">
+<img height="200" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;">
 
   <h2>About Me<h2>         
            
