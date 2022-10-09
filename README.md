@@ -10,4 +10,4 @@
 ### Connect with me:
 
 
-[![Telegram]([https://img.shields.io/badge/-Telegram-blue])(https://t.me/RobertsJR)]
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/RobertsJR)
