@@ -1,4 +1,4 @@
-<img height="250" src="https://hdqwalls.com/ubuntu-linux-minimal-4k-wallpaper"style="max-width: 100%;">
+<img height="250" src="https://hdqwalls.com/ubuntu-linux-minimal-4k-wallpaper" style="max-width: 100%;">
 
 <h2>About Me<h2>         
            
