@@ -2,9 +2,9 @@
 
 <h2>About Me<h2>         
            
-- 👋 Hi, I’m SiPalingRobert
-- 👀 I’m interested in C++ & Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Robert
+- 👀 I’m interested in Airdrop 
+- 🌱 I’m currently learning How To Win Gleam No Root
 
 
 <h2>Stats<h2>  
