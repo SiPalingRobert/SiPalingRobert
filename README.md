@@ -1,5 +1,3 @@
-<img height="auto" src="https://graph.org/file/3bc15ecda06e18efa0421.jpg" style="max-width: 100%;">
-
 <h2>About Me<h2>         
            
 - 👋 Hi, I’m Robert
@@ -14,4 +12,4 @@
 Connect With Me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/RobertsJR)
-[![PemulungAirdropID](https://img.shields.io/badge/-PemulungAirdropID-blue)](https://t.me/PemulungAirdropID)
+
